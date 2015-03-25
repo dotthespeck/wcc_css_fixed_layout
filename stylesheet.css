@@ -1,0 +1,12 @@
+body {
+  background-color: linen;
+}
+
+div.wrapper {
+  width: 960px;
+  margin: auto;
+}
+
+header {
+  font-size: 48px;
+}
