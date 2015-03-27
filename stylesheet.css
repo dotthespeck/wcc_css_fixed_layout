@@ -25,8 +25,9 @@ div.left {
   border: 5px blue solid;
 }
 
-div.right {
-
+div.footer {
+  clear: both;
+  text-align: center;
 }
 
 h3 {
@@ -51,4 +52,8 @@ img {
 
 p {
   color: green;
+}
+
+p.bottom {
+  color: purple;
 }
