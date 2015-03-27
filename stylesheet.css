@@ -1,5 +1,5 @@
 body {
-  background-color: linen;
+  background-color: white;
 }
 
 div.wrapper {
@@ -7,6 +7,48 @@ div.wrapper {
   margin: auto;
 }
 
-header {
+div.header {
   font-size: 48px;
+  background-color: lavender;
+  color: blue;
+  text-align: center;
+}
+
+div.nav {
+  background-color: lavender;
+}
+
+div.left {
+  float: left;
+  margin: 25px;
+  padding: 10px;
+  border: 5px blue solid;
+}
+
+div.right {
+
+}
+
+h3 {
+  margin: auto;
+}
+
+li {
+  list-style-type: none;
+  float: center;
+  padding: 10px;
+  color: blue;
+  display: inline-block;
+  font-size: 24px;
+}
+
+img {
+  height: 192px;
+  width: 144px;
+  display:block;
+  margin: auto;
+}
+
+p {
+  color: green;
 }
